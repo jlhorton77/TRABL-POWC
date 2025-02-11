@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8">
-  <title>Former Wampus Cats</title>
+  <title>Team Transactions</title>
  <link rel="icon" type="image/x-icon" href="Pend Oreille Wampus Cats.jpg">
   
 </head>
@@ -17,6 +17,20 @@
       <td><a href="teampitchingstats.html"><h3>Team Pitching Stats</h3></a></td>
  
       <td><a href="TeamTransactions.html"><h3>Team Transactions</h3></a>
+      <td><a href="AlumniCats.html"><h3>Alumni Cats</h3></a>
+
       </td>
           </tr>
+  </table>
+  <br>
+  <br>
+  <br>
+  <h1><strong>Alumni Cats</strong></h1>
+  <hr>
+  <br>
+
+    <table>
+    <tr>
+      <td><img src="https://www.baseball-reference.com/req/202209210/images/headshots/b/b8a36507_mlbam.jpg" alt=""></td>
+      <td>Nick Lodolo 2023-Current</td>
   </table>
